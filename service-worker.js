@@ -6,7 +6,7 @@ const cacheAssets = [
   "./index.html",
   "./service-worker.js",
   "./manifest.json",
-  "./favicon.ico",
+  "./favicon.png",
   "./assets/css/style.css",
   "./assets/js/main.js",
   "./assets/js/register.js",
