@@ -26,6 +26,18 @@ body::before {
   height: 100vh;
 }
 
+.profil {
+    top: 50%;
+    left: 50%;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background-image: url(https://www.daffabot.my.id/image/profil.webp);
+    background-size: 100% 100%;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+}
+
 @media (min-width: 1024px) {
   body::before {
     background-attachment: fixed;
